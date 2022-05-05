@@ -1,0 +1,10 @@
+package programmes;
+
+public class Autom {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
